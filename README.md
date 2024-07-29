@@ -10,9 +10,9 @@ My analysis of the data can be found at the top of my code. I have also placed i
 
 ### Analysis
 
-Observation #1: There were more male mice used than femail mice used. 
-Observation #2: The tumor volume decreased the longer the Capomulin treatment was given. 
-Observation #3: With the linear regression line trending upward along with weight, we can conclude that there is a positive correlation between the mouse weight and the volume of the tumor.
+* Observation #1: There were more male mice used than femail mice used. 
+* Observation #2: The tumor volume decreased the longer the Capomulin treatment was given. 
+* Observation #3: With the linear regression line trending upward along with weight, we can conclude that there is a positive correlation between the mouse weight and the volume of the tumor.
 
 _____________________________________________________________________________________________________________________________
  
