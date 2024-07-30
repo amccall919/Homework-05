@@ -22,3 +22,4 @@ Resources Used
 * ChatGPT
 * Xpert Learning Assistant
 * Class notes and examples
+* Visual Studio Copilot
